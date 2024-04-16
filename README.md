@@ -1,4 +1,6 @@
-# Gleam style pipes in rust!
+# Piedpiper
+
+## Gleam style pipes in rust!
 
 ```rust
 use piedpiper::pp;
